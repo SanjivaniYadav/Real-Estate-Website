@@ -1,4 +1,4 @@
-# <REAL ESTATE WEBSITE>! 🏠
+# REAL ESTATE WEBSITE! 🏠
 
 This is an real estate website where you can search for specific real estate property and it gives you the searched result. Also has an real time chat feature and register, login, and logout authentication.
 with this user can add posts and details about property.
